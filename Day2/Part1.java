@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class AEC2021Day2Part1 {
+public class Part1 {
 	public static void main(String[] args) throws FileNotFoundException{
 		final String FILE_PATH ="/Users/nurdanemin/Desktop/AOC-2021-Day2-input.txt";
 		
